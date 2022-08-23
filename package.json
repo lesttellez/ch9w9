@@ -1,0 +1,28 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesttellez/ch9w9.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesttellez/ch9w9/issues"
+  },
+  "homepage": "https://github.com/lesttellez/ch9w9#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    }
+  }
+
+ 
+  
+  
