@@ -31,7 +31,7 @@ The user should clone the repository from GitHub and download Node. This applica
 Usage
 Use inquirer from your command line to answer questions about your project. 
 
-Or view link here -> 
+Or view link here -> https://drive.google.com/file/d/1qVB6O22woFRzTzg3OXLostoB8qGlO09F/view
 
 Contributing
 Contributors should read the installation section.
